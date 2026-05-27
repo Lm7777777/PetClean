@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PetClean - Cuidado de Mascotas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>🐾 PetClean</h1>
+    <p>Cuidado y limpieza para tus mascotas</p>
+</header>
+
+<section class="hero">
+    <img src="img/mascotas.png" alt="Mascotas">
+    <div class="hero-text">
+        <h2>Cuidado de Mascotas</h2>
+        <ul>
+            <li>🐾 Hospedaje de gatos y perros</li>
+            <li>🐾 Baño y cepillado</li>
+            <li>🐾 Vacunas</li>
+            <li>🐾 Cuidado de pelaje</li>
+        </ul>
+    </div>
+</section>
+
+<section class="promo">
+    <h2>¡Hasta un 25% de descuento!</h2>
+    <p>*T&C aplican</p>
+</section>
+
+<section class="contacto">
+    <h3>Contáctanos</h3>
+    <p>📞 +321-380-1209</p>
+    <p>🌐 www.petclean.com</p>
+</section>
+
+<footer>
+    <p>© 2026 PetClean - Todos los derechos reservados</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
